@@ -33,6 +33,7 @@ or
 - Lichess.org and other various Chess websites support
 - Auto-move your pieces
 - Opening Books
+- Chess Variants such as 960
 - syzygy End Game Tablebases
 
 # Disclaimer
