@@ -28,7 +28,7 @@ or
 
 - "main.py"
 
-# Important:
+# Misc Downloads:
 - Download Chrome here: https://www.google.com/chrome/
 - Download Stockfish here: https://stockfishchess.org/download/
 
