@@ -24,10 +24,13 @@ or
 
 - "py -m pip install -r requirements.txt"
 
-3. Run the tool:
+3. Run it:
 
 - "main.py"
 
+# Important:
+- Download Chrome here: https://www.google.com/chrome/
+- Download Stockfish here: https://stockfishchess.org/download/
 
 # Future Plans:
 - Lichess.org and other various Chess websites support
