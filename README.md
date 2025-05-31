@@ -14,7 +14,7 @@ This GUI tool connects to a Chess.com live game, displays the move list, runs St
 1. Clone the repo:
 - "git clone https://github.com/hertfa/Chess-Bot.git"
 
-- "cd chess-com-stockfish-helper"
+- "cd Chess-AUTOBOT"
 
 2. Install dependencies:
 
