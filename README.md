@@ -37,6 +37,7 @@ or
 - Auto-move your pieces
 - Opening Books
 - Chess Variants such as 960
+- Checkmate Cut-Ins
 - syzygy End Game Tablebases
 
 # Disclaimer
