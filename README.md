@@ -12,7 +12,7 @@ This GUI tool connects to a Chess.com live game, displays the move list, runs St
 - Arrow overlay on the Chess.com board
 # Setup
 1. Clone the repo:
-- "git clone https://github.com/your-username/chess-com-stockfish-helper.git"
+- "git clone https://github.com/hertfa/Chess-Bot.git"
 
 - "cd chess-com-stockfish-helper"
 
