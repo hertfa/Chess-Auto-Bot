@@ -38,6 +38,7 @@ or
 - Opening Books
 - Chess Variants such as 960
 - Checkmate Cut-Ins
+- Different arrow colors; e.g. Best move gets red, 2nd Best move gets blue etc
 - syzygy End Game Tablebases
 
 # Disclaimer
